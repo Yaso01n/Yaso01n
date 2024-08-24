@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-* I’m currently a fresh graduate from Cairo University, Faculty of Systems and Biomedical Engineering, with a total grade of 3.12 (Very Good).
+* I’m currently a fresh graduate from Cairo University, Faculty of Systems and Biomedical Engineering, with a total grade of 3.1 (Very Good).
 * I’m looking to collaborate on projects, particularly my graduation project, which provided me with significant experience in mobile app development and back-end development.
 * I’m actively seeking a position where I can leverage my skills, contribute to company goals, and continue to grow professionally.
 * I’m currently expanding my skills to become more competitive in the job market.
-* My qualifications are well-suited for roles in the following fields:<br>- Biomedical Engineering or software roles that support medical fields, such as Healthcare Information Systems (HIS).<br>- Mobile App Development using Flutter and Dart.<br>- Back-end Development with MySQL and Node.js.<br>
+* My qualifications align well with roles in the following fields:<br>Biomedical Engineering: Including Customer Service, Application Specialist, Sales, and Clinical Engineering.<br>Mobile App Development: Proficient in using Flutter and Dart.<br>Back-end Development: Skilled in MySQL and Node.js, particularly in roles that support medical fields such as Healthcare Information Systems (HIS).
 
 
 ## 🌐 Socials:
