@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 * I’m looking to collaborate on projects, particularly my graduation project, which provided me with significant experience in mobile app development and back-end development.
 * I’m actively seeking a position where I can leverage my skills, contribute to company goals, and continue to grow professionally.
 * I’m currently expanding my skills to become more competitive in the job market.
-* My qualifications align well with roles in the following fields:<br> - **Biomedical Engineering:** Including Customer Service, Application Specialist, Sales, and Clinical Engineering.<br> - **Mobile App Development:** Experienced in using Flutter and Dart.<br> - **Back-end Development:** Skilled in MySQL and Node.js, particularly in roles that support medical fields such as Healthcare Information Systems (HIS).
+* My qualifications align well with roles in the following fields:<br> - **Back-end Development:** Skilled in MySQL,Node.js, and .Net, particularly in roles that support medical fields such as Healthcare Information Systems (HIS).<br> - **Mobile App Development:** Experienced in using Flutter and Dart.<br> - **Biomedical Engineering:** Including Customer Service, Application Specialist, Sales, and Clinical Engineering.
 
 
 ## 🌐 Socials:
